@@ -1,8 +1,8 @@
 class Sevenkey < Formula
   desc "Give AI agents and CI your secrets without letting them see them"
   homepage "https://7key.online"
-  url "https://registry.npmjs.org/@7key/cli/-/cli-1.3.1.tgz"
-  sha256 "84298d740faa32bbecef5b1af4487e85aeaf60a2733d54f8a0606367ccba8e8e"
+  url "https://registry.npmjs.org/@7key/cli/-/cli-1.3.2.tgz"
+  sha256 "22f143ea200cbcf1e6fd6285c70686e8f5c0fa874f8d432ca19ce562c7342d99"
   license "MIT"
 
   depends_on "node"
